@@ -1,4 +1,4 @@
-![CR-3](https://github.com/user-attachments/assets/485b7ff1-c098-40bf-93b4-00058c8729a9)
+![ES-2](https://github.com/user-attachments/assets/35e710b1-37d0-45c8-96b8-6bc8100f8b36)
 
 ## 🥁 CarnaCode 2026 - Desafio 07 - Bridge
 
